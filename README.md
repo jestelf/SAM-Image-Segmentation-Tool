@@ -1,4 +1,4 @@
-### Название для приложения: **SAM Image Segmentation Tool**
+### **SAM Image Segmentation Tool**
 
 ---
 
