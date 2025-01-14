@@ -8,8 +8,6 @@
 
 ---
 
-### README для репозитория
-
 # SAM Image Segmentation Tool
 
 **SAM Image Segmentation Tool** — интерактивное приложение для выделения объектов на изображениях с использованием модели **Segment Anything Model (SAM)**. Оно позволяет легко выделять объекты, используя точечные подсказки (prompting) и операции drag-and-drop.
